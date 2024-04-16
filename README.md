@@ -23,9 +23,9 @@ O projeto consiste na resolução de questões dos problemas em [grafos em marat
 
 ## Problema 2: Torres que Atacam
 - **Nível:** Difícil
-- **Conteúdo:** grafosBipartido
-- **Explicação:** [Explicação 02](link_para_explicacao_02)
-- **Implementação:** [Código 02](link_para_codigo_02)
+- **Conteúdo:** grafos Bipartido
+- **Explicação:** [Explicação 02](https://github.com/Pabloserrapxx/PD_exercicios_Maratonas/blob/main/Exercicios/Imposto%20Real.py))
+- **Implementação:** [Código 02](file:///C:/Users/Pablo/Downloads/pipi.pdf)
 
 ## Problema 3: Ice Cave
 - **Nível:** Médio
