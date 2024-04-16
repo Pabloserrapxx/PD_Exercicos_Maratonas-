@@ -21,7 +21,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 **Linguagem**: python 
 
-**biblioteca** collections
+**biblioteca**: collections
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
