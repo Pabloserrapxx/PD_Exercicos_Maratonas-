@@ -12,10 +12,12 @@
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-O projeto consiste na resolução de questões dos problemas em [grafos em maratonas da SBC](https://github.com/Pabloserrapxx/PD_exercicios_Maratonas/blob/main/PROBLEMASMARATONAGRAFOS.pdf) 
+O projeto consiste na resolução de questões dos problemas em [grafos em maratonas da SBC](https://github.com/Pabloserrapxx/PD_exercicios_Maratonas/blob/main/PROBLEMASMARATONAGRAFOS.pdf).Sendo aplicando o  que foi visto em aula
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### questão 1 
+nível médio
+Conteúdo:Busca em largura
+Implementação: 
 
 ## Instalação 
 
