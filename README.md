@@ -12,7 +12,7 @@
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-O projeto consiste na resolução de questões dos problemas em [grafos em maratonas da SBC](https://github.com/Pabloserrapxx/PD_exercicios_Maratonas/blob/main/PROBLEMASMARATONAGRAFOS.pdf) que foi aplicado o conteúdo que vimos durante o periodo de aula
+O projeto consiste na resolução de questões dos problemas em [grafos em maratonas da SBC](https://github.com/Pabloserrapxx/PD_exercicios_Maratonas/blob/main/PROBLEMASMARATONAGRAFOS.pdf) 
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
