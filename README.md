@@ -18,8 +18,8 @@ O projeto consiste na resolução de questões dos problemas em [grafos em marat
 ## Problema 1: Imposto Real
 - **Nível:** Médio
 - **Conteúdo:** Travessia em grafos (DFS/BFS)
-- **Explicação:** [Explicação 01](https://github.com/Pabloserrapxx/PD_exercicios_Maratonas/blob/main/Exercicios/Imposto%20Real.py)
-- **Implementação:** [Código 01][(link_para_codigo_01)](https://github.com/Pabloserrapxx/nada/blob/main/pipi.pdf)
+- **Implementação:** [Explicação 01](https://github.com/Pabloserrapxx/PD_exercicios_Maratonas/blob/main/Exercicios/Imposto%20Real.py)
+-- **Explicação:**  [questão](https://github.com/Pabloserrapxx/nada/blob/main/pipi.pdf)
 
 ## Problema 2: Torres que Atacam
 - **Nível:** Difícil
