@@ -27,6 +27,11 @@ O projeto consiste na resolução de questões dos problemas em [grafos em marat
 - **Explicação:** [Explicação 02](https://github.com/Pabloserrapxx/PD_exercicios_Maratonas/blob/main/Exercicios/Torres%20que%20Atacam.py)
 - **Implementação:** [Torres que Atacam](https://github.com/Pabloserrapxx/nada/blob/main/torres%20que%20atacam.pdf))
 
+## Problema 3: Arte Valiosa
+- **Nível:** Médio
+- **Conteúdo:** Conectividade de grafos
+- **Explicação:** [Explicação 03](https://github.com/Pabloserrapxx/PD_exercicios_Maratonas/blob/main/Exercicios/Arte-valiosa.ipynb)
+- **Implementação:** [Arte Valiosa](https://github.com/Pabloserrapxx/nada/blob/main/Arte-valiosa.pdf))
 
 ## Instalação 
 
