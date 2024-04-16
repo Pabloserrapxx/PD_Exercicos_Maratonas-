@@ -12,7 +12,7 @@
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona.[PDF](https://github.com/Pabloserrapxx/PD_exercicios_Maratonas/blob/main/PROBLEMASMARATONAGRAFOS.pdf)) 
+O projeto consiste na resolução de questões dos problemas em [grafos em maratonas da SBC](https://github.com/Pabloserrapxx/PD_exercicios_Maratonas/blob/main/PROBLEMASMARATONAGRAFOS.pdf) que foi aplicado o conteúdo que vimos durante o periodo de aula
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
