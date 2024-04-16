@@ -18,8 +18,11 @@ O projeto consiste na resolução de questões dos problemas em [grafos em marat
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
+
 **Linguagem**: python
+
 **Framework**: 
+
 **biblioteca** collections
 
 ## Uso 
