@@ -19,7 +19,7 @@ O projeto consiste na resolução de questões dos problemas em [grafos em marat
 - **Nível:** Médio
 - **Conteúdo:** Travessia em grafos (DFS/BFS)
 - **Implementação:** [Explicação 01](https://github.com/Pabloserrapxx/PD_exercicios_Maratonas/blob/main/Exercicios/Imposto%20Real.py)
--- **Explicação:**  [questão](https://github.com/Pabloserrapxx/nada/blob/main/pipi.pdf)
+- **Explicação:**  [questão](https://github.com/Pabloserrapxx/nada/blob/main/pipi.pdf)
 
 ## Problema 2: Torres que Atacam
 - **Nível:** Difícil
