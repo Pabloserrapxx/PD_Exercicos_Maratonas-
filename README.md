@@ -14,7 +14,8 @@
 ## Sobre 
 O projeto consiste na resolução de questões dos problemas em [grafos em maratonas da SBC](https://github.com/Pabloserrapxx/PD_exercicios_Maratonas/blob/main/PROBLEMASMARATONAGRAFOS.pdf).Sendo aplicando o  que foi visto em aula
 
-# Questão 1 
+## Screenshots
+Adicione 3 ou mais screenshots do projeto em funcionamento. 
 
 ## Instalação 
 
