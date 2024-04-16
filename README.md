@@ -12,7 +12,7 @@
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. file:///C:/Users/Pablo/OneDrive/Documentos/programa%C3%A7%C3%A3o/python/PROBLEMASMARATONAGRAFOS.pdf
+Descreva os objetivos do seu projeto e como ele funciona.[PDF](file:///C:/Users/Pablo/OneDrive/Documentos/programa%C3%A7%C3%A3o/python/PROBLEMASMARATONAGRAFOS.pdf) 
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
