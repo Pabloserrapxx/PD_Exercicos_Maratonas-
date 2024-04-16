@@ -19,7 +19,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
 **Linguagem**: python
-**Framework**: (caso exista)<br>
+**Framework**: 
 **biblioteca** collections
 
 ## Uso 
