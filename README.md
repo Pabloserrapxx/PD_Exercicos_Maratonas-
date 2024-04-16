@@ -8,7 +8,7 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 221008679 | Pablo Serra Carvalho |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
@@ -18,9 +18,9 @@ Descreva os objetivos do seu projeto e como ele funciona.
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
+**Linguagem**: python
 **Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**biblioteca** collections
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
