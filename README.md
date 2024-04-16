@@ -27,12 +27,6 @@ O projeto consiste na resolução de questões dos problemas em [grafos em marat
 - **Explicação:** [Explicação 02](https://github.com/Pabloserrapxx/PD_exercicios_Maratonas/blob/main/Exercicios/Torres%20que%20Atacam.py)
 - **Implementação:** [Código 02](file:///C:/Users/Pablo/Downloads/pipi.pdf)
 
-## Problema 3: Ice Cave
-- **Nível:** Médio
-- **Conteúdo:** Travessia em grafos (DFS)
-- **Explicação:** [Explicação 03](link_para_explicacao_03)
-- **Implementação:** [Código 03](link_para_codigo_03)
-  
 
 ## Instalação 
 
