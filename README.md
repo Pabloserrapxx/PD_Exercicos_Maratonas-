@@ -3,7 +3,7 @@
 
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: GRAFOS 1
 
 ## Alunos
 |Matrícula | Aluno |
